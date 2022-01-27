@@ -11,5 +11,8 @@ body{
 
 #canvas{
     box-sizing: border-box;
-    border: none
+    border: solid red 16px;  /* in real applications the border will "eat" pixels from the canvas*/
+   /*  position: relative;
+    top: 50px;
+    left: 50px */
 }
