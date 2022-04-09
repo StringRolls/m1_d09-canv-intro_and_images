@@ -15,7 +15,6 @@ resizeCanvasToWindow()
 
 const ctx = canvas.getContext("2d")
 
-
 const sillyRectangle = {
     "ctx": ctx,
     draw(){
